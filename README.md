@@ -26,7 +26,7 @@ swipl
 
 Follow the prompts to answer questions. The system will infer potential car problems based on your inputs and display results grouped by system area.
 
-## 🧠 System Features
+## System Features
 
 - ✅ Symptom-driven question flow
 - ✅ Intelligent skipping of unnecessary questions
