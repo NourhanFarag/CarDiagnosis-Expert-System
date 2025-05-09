@@ -36,7 +36,7 @@ Follow the prompts to answer questions. The system will infer potential car prob
 
 ## Sample Output
 
-<img src="assets/image7.png" width="200"/> <img src="assets/image8.png" width="200"/><img src="assets/image9.png" width="200"/>
+<img src="assets/image7.png" width="200"/>          <img src="assets/image8.png" width="200"/>          <img src="assets/image9.png" width="200"/>
 
 
 ## 👥 Team
